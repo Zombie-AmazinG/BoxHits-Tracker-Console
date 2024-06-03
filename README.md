@@ -1,5 +1,4 @@
 * App by Zombie_AmazinG *
-* GitHub: https://github.com/Zombie-AmazinG*
 * Twitch: https://www.twitch.tv/zombie__amazing *
 * Youtube: https://www.youtube.com/@Zombie_AmazinG *
 * App to Calculate Manually Box Hits for console players *
