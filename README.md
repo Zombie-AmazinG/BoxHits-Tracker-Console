@@ -7,7 +7,7 @@
 * This program use binds to work
 
 * Binds:
-* 'Q' -> add 1 boxhit for counter
+* 'Q' -> add 1 boxhit for counter (Before / After setup)
 * 'W' -> remove 1 box for counter
 * 'A' -> add how many WW (Wonder Weapons) you got, but this bind only works with the setup finished
 * 'S' remove 1 WW
